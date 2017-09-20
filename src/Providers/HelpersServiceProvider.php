@@ -1,4 +1,4 @@
-<?php namespace DigitalAgua\Helpers\Providers;
+<?php namespace DigitalAgua\LaravelHelpers\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
